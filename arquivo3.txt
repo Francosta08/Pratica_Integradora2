@@ -1,1 +1,3 @@
+Participante B colocando linhas!
 linha do participante A arquivo3
+E adicionando também, bora quebrar tudo no merge
